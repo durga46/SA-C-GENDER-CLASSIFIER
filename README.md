@@ -40,7 +40,9 @@ print("Gender : ",result['gender'])
 
 ## OUTPUT:
 1. CODE :
-![v1](https://user-images.githubusercontent.com/75235704/173245436-449d8936-edfb-491d-a5df-b23b3f8e2c63.PNG)
+
+![v2](https://user-images.githubusercontent.com/75235704/173245489-bc48c34a-9a75-466d-894e-f3ac5d759c31.PNG)
+
 
 
 2. DEMO VIDEO YOUTUBE LINK:
